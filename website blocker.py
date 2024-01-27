@@ -37,7 +37,7 @@ with open(host_path, "r+") as file:
 import os
 
 site_block = ["www.wscubetech.com", "www.facebook.com"]
-host_path = "C:/Users/bhush/Music/hosts"
+host_path = "C:/Windows/System32/drivers/etc/hosts"
 redirect_no = "127.0.0.1"
 
 try:
